@@ -1,4 +1,4 @@
-# Mon site WordPress local
+# La-vie-des-plantes
 
 Ce dépôt contient le code source d'un site WordPress local développé avec [Local](https://localwp.com/) et utilisant :
 
@@ -22,4 +22,3 @@ Certaines parties ne sont **pas** versionnées, comme :
 ## 📝 Remarques
 
 Ce dépôt ne permet **pas d'exécuter le site** directement (car WordPress nécessite PHP et MySQL), mais il sert à versionner le code pour le développement.
-
